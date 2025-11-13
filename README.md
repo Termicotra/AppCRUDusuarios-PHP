@@ -4,6 +4,9 @@
 
 https://appcrudusuarios.ct.ws/
 
+Usuario: admin
+Contraseña: 1234
+
 ##  Descripción
 
 AppCRUDLoginUsuarios es una aplicación web desarrollada en PHP que permite gestionar usuarios mediante operaciones CRUD (Crear, Leer, Actualizar, Eliminar) protegidas por autenticación JWT. Incluye un sistema de login con control de acceso, vistas dinámicas con AJAX y una interfaz diferenciada para administradores.
